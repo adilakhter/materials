@@ -1,0 +1,3 @@
+```bash
+amm Simple.sc
+```
